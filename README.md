@@ -9,3 +9,5 @@ Authoring rules:
 5. Adding a number with "." at the beginning of the link article is mandatory, for content ordering.
 6. Don't forget to add **publish: true** for the article to appear.
 7. The module will not handle images or other binary formats from this repo. Images in the folder **public/** can be referenced in Markdown files.
+8. Pls do not alter this structure with **content/en/** and **content/ru/**.
+9. When an article is added to **en** or **ru**, the same article shall be added to the other location, at least with the same content.
