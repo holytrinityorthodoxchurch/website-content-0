@@ -3,7 +3,7 @@ date: 2026-04-26
 title: Sunday of the Holy Myrrh-bearing Women
 navigation: false
 publish: true
-frontpage: true
+frontpage: false
 news: true
 ---
 
