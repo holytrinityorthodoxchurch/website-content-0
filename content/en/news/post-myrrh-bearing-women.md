@@ -7,7 +7,11 @@ frontpage: false
 news: true
 ---
 
-Sunday of the **Holy Myrrh-bearing Women** is a particularly venerated day for the parish of the Holy Trinity Cathedral in Toronto. For this community, the feast holds not only general ecclesiastical significance, but also a profound inner, parish-centere meaning: the Sisterhood of the Cathedral bears the name of the Holy Myrrh-bearing Women.
+Sunday of the **Holy Myrrh-bearing Women** is a particularly venerated day for the parish of the Holy Trinity Cathedral in Toronto. 
+
+<!--more-->
+
+For this community, the feast holds not only general ecclesiastical significance, but also a profound inner, parish-centere meaning: the Sisterhood of the Cathedral bears the name of the Holy Myrrh-bearing Women.
 
 For 77 years—since the founding of the parish in 1949—the sisters have labored unceasingly in their obedience (poslushanie) for the good of the Holy Church. Over these decades, much has changed: generations of clergy and parishioners have come and gone, and the composition of the Sisterhood has been renewed. Yet their self-sacrificing ministry remains unchanged, marked by love, patience, and dedication. Through the labors of the sisters, not only is constant care shown to the faithful, but the material life of the parish is also substantially supported—whether through the repair and adornment of the church bulding or in meeting its many practical needs.
 

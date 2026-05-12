@@ -10,5 +10,8 @@ news: true
 Charity luncheon event on **Holy Trinity Sunday** on **May 31st.**
 
 Tickets at $50, children, students and retirees - $25. 
+
+<!--more-->
+
 Orders by phone **647-345-3929** (Kareliya Antonovna).
 
