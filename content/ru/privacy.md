@@ -1,6 +1,6 @@
 ---
 date: 2026-05-04
-title: Конфиденциальность
+title: Политика конфиденциальности
 navigation: false
 publish: true
 privacy: true
