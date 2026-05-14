@@ -2,6 +2,7 @@
 date: 2026-05-31
 title: Charity luncheon
 navigation: false
+path: post-charity-lancheon
 publish: true
 frontpage: true
 news: true

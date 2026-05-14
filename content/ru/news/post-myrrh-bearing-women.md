@@ -2,6 +2,7 @@
 date: 2026-04-26
 title: Неделя святых жен-мироносиц
 navigation: false
+path: post-myrrh-bearing-women
 publish: true
 frontpage: false
 news: true
