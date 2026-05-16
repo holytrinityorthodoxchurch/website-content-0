@@ -6,7 +6,9 @@ publish: true
 contacts: true
 ---
 
-## Holy Trinity Russian Orthodox Church - ROCOR
+![Church's front](/holy-trinity-church-front.jpg)
+
+### Holy Trinity Russian Orthodox Church - ROCOR
 
 23 Henry Street\
 Toronto, Ontario, Canada. M5T 1W9\

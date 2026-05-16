@@ -6,7 +6,9 @@ publish: true
 contacts: true
 ---
 
-## Свято-Троицкий Собор
+![Фасад церкви](/holy-trinity-church-front.jpg)
+
+### Свято-Троицкий Собор
 
 23 Henry Street\
 Toronto, Ontario, Canada. M5T 1W9\
