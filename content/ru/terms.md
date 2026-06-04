@@ -6,6 +6,4 @@ publish: true
 terms: true
 ---
 
-This site can not assume responsibility of any kind.
-
-Please forward your concerns through the means of on our website.
+Эта страница дорабатывается и может быть изменена в любое время, без уведомлений.
