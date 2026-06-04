@@ -3,7 +3,7 @@ date: 2026-05-31
 title: Благотворительный обед
 navigation: false
 path: post-charity-lancheon
-publish: true
+publish: false
 frontpage: true
 news: true
 ---
