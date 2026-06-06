@@ -6,7 +6,7 @@ publish: true
 contacts: true
 ---
 
-![Church's front](/htroct-exterior-hdr-1200x.jpg)
+![Church's front](/holy-trinity-church-front.jpg)
 
 ### Holy Trinity Russian Orthodox Church - ROCOR
 

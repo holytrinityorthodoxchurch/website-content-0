@@ -6,7 +6,7 @@ publish: true
 contacts: true
 ---
 
-![Фасад церкви](/htroct-exterior-hdr-1200x.jpg)
+![Фасад церкви](/holy-trinity-church-front.jpg)
 
 ### Свято-Троицкий Собор
 
