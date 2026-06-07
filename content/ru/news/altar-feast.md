@@ -4,7 +4,7 @@ title: Престольный праздник Свято-Троицкого к�
 navigation: false
 path: altar-feast
 publish: true
-frontpage: true
+frontpage: false
 news: true
 ---
 

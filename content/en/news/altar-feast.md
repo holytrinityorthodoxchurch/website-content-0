@@ -4,7 +4,7 @@ title: Altar feast at our church
 navigation: false
 path: altar-feast
 publish: true
-frontpage: true
+frontpage: false
 news: true
 ---
 
