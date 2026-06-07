@@ -8,6 +8,10 @@ frontpage: true
 news: true
 ---
 
+Молодежь устраивает поездку в монастырь 14-16 августа.
+
+<!--more-->
+
 <div class="flex flex-col md:flex-row gap-4">
   <img
     width="300"

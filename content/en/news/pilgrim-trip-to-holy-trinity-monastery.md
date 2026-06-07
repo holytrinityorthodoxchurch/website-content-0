@@ -8,6 +8,10 @@ frontpage: true
 news: true
 ---
 
+Youth group organizes pilgrim trip to monastery on August 14-16th.
+
+<!--more-->
+
 <div class="flex flex-col md:flex-row gap-4">
   <img
     width="300"
