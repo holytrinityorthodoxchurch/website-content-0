@@ -20,9 +20,6 @@ Youth group organizes pilgrim trip to monastery on August 14-16th.
     alt="Jordanville Monastery">
   <div class="flex flex-col gap-4">
     <div>
-      Youth group organizes pilgrim trip to monastery on August 14-16th.
-    </div>
-    <div>
       Cost of $300 includes bus, two nights at the monastery's hotel and food at the monastery.
       Call <strong>Elena at 647-391-8987</strong> to sign-up.
     </div>
