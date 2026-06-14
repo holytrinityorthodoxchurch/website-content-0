@@ -18,4 +18,4 @@ The work is quoted at **$150,000**. It included all ever possible price promotio
 
 Next repairs that we have been preparing to and hope could soon be started are religious painting (the final draft of the drawing available) on the currently white interior's dome and replacement of damaged paintings of Evangelists.
 
-That being said, your feasible donations will be so much appreciated. You could pass one through the Warden - Paul Kazenny or Treasurer - Olga Grebenchuk.
+That being said, your feasible donations will be so much appreciated. This can be done through the church's website.
