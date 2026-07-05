@@ -4,7 +4,7 @@ title: Капитальный ремонт переднего двора
 navigation: false
 path: major-repair-of-the-front-yard
 publish: true
-frontpage: true
+frontpage: false
 news: true
 ---
 

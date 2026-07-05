@@ -4,7 +4,7 @@ title: Major repair of the front yard
 navigation: false
 path: major-repair-of-the-front-yard
 publish: true
-frontpage: true
+frontpage: false
 news: true
 ---
 
