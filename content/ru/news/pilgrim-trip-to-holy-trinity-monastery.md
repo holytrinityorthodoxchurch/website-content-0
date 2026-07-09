@@ -15,9 +15,9 @@ news: true
 <div class="flex flex-col md:flex-row gap-4">
   <img
     width="300"
-    height="200"
-    src="https://www.jordanville.org/public/image.php/18493.jpg?ximgid=slideshow-918-18493-300x200-crop&width=300&height=200&color=cccccc&cropratio=300:200&image=/images/2019/News---2019/20190320-Clean-Week/DSC01676.jpg"
-    alt="Jordanville Monastery">
+    height="225"
+    src="https://jordanville.org/wp-content/uploads/2026/06/Consecration-of-Bishop-Luke-1-300x225.jpg"
+    alt="Рукоположение Владыки Луки в Троицком монастыре в Джорданвилль">
   <div class="flex flex-col gap-4">
     <div>
       Стоимость $300 включает автобус, две ночи в монастырской гостинице и питание в монастыре.
