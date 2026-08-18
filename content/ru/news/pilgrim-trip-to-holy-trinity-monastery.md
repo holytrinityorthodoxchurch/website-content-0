@@ -3,7 +3,7 @@ date: 2026-08-14
 title: Поездка в Свято-Троицкий монастырь
 navigation: false
 path: pilgrim-trip-to-holy-trinity-monastery
-publish: true
+publish: false
 frontpage: true
 news: true
 ---
