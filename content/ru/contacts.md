@@ -11,7 +11,7 @@ contacts: true
 ### Свято-Троицкий Собор
 
 23 Henry Street\
-Toronto, Ontario, Canada. M5T 1W9\
+Toronto, Ontario, M5T 1W9, Canada\
 Tel.: (416) 979-2990\
 Fax: (416) 265-2444
 

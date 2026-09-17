@@ -6,7 +6,7 @@ publish: true
 privacy: true
 ---
 
-Эта страница дорабатывается и может быть изменена в любое время, без уведомлений.
+This policy is only available in English and may be further updated without prior notifications to any parties.
 
 Your privacy is important to us. This privacy statement explains how we deal with your personal data. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
